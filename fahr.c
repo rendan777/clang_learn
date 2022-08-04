@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//переводит градусы цельсия в фаренгейты. шаг начинается с 0 до 300
 int main() {
   float fahr, celsius;
   int lower, upper, step;
